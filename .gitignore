@@ -1,0 +1,19 @@
+# build-uitvoer
+*.o
+cpu8
+a.out
+
+# debuggen
+core
+core.*
+vgcore.*
+.gdb_history
+*.dSYM/
+
+# editor en OS
+.vscode/
+*.swp
+.DS_Store
+
+# opdrachttekst van school
+subject.md
